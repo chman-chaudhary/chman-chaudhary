@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently building full-stack applications with Next.js.<br>👯‍♂️ I'm looking to collaborate on innovative projects with like-minded developers.<br>🤝 I'm seeking guidance in DevOps practices to streamline development and deployment processes.<br>🌱 I'm actively learning cloud technologies to enhance my application scalability and reliability.<br>💬 Ask me about my experience in full-stack development and my interest in exploring new frameworks and tools.<br>⚡fun fact: I'm a car enthusiast and a pet lover.
+🔭 I'm currently building full-stack application with Next.js.<br>👯‍♂️ I'm looking to collaborate on innovative projects with like-minded developers.<br>🤝 I'm seeking guidance in DevOps practices to streamline development and deployment processes.<br>🌱 I'm actively learning cloud technologies to enhance my application scalability and reliability.<br>💬 Ask me about my experience in full-stack development and my interest in exploring new frameworks and tools.<br>⚡fun fact: I'm a car enthusiast and a pet lover.
 
 
 ## 🌐 Socials:
